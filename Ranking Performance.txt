@@ -1,0 +1,81 @@
+Pair:								Predicted:			Actual:			Correct?:
+============================First & Second Round South==================================
+Kansas J vs. Austin Peay			Kansas				Kansas			Yes					
+Colorado Buff. vs. Connecticut		Connecticut			Connecticut		Yes
+	Connecticut vs. Kansas J		Kansas				Kansas			Yes
+		//kansas vs maryland
+Maryland vs. S. Dakota St.			Maryland			Maryland		Yes
+California vs. Hawaii				California			Hawaii			No
+	Maryland vs. California			Maryland			xxxxxxxxxxx		No
+		//kansas vs maryland
+Arizona Wild. vs. Wichita St.		Arizona	Wild.		Wichita St.		No		
+Miami D vs. Buffalo Bull			Buffalo	B			Miami			No	
+	Arizona Wild. vs. Buffalo B.	Arizona Wild.		xxxxxxxxxxx		No
+		//arizona wild vs villanova
+Iowa vs. Temple						Iowa				Iowa			Yes
+Villanova vs. UNC Asheville			Villanova			Villanova		Yes
+	Iowa vs. Villanova				Villanova			Villanova		Yes
+		//arizona wild vs villanova
+===========================First & Second Round West====================================
+Oregon Ducks vs. Holy Cross			Oregon Ducks		Oregon			Yes
+Saint Joseph's vs Cincinnati BCs	Cincinnati			St. Joseph		No
+	Oregon Ducks vs. Cincinnati BCs	Oregon Ducks		xxxxxxxxxxx		No		
+		//oregon ducks vs. Duke
+Baylor vs. Yale						Baylor				Yale			No			
+Duke vs. UNC Wilmington				Duke				Duke			Yes
+	Baylor vs. Duke					Duke				xxxxxxxxxxx		No
+		//oregon ducks vs. Duke
+Texas Long vs. Northern Iowa		Texas Long			Northern Iowa	No
+Texas A&M vs. Green Bay				Texas A&M			Texas A&M		Yes	
+	Texas Long vs. Texas A&M		Texas A&M			xxxxxxxxxxx		No		
+		//Texas A&M vs. Oklahoma S.
+Oregon State vs. VCU				VCU Rams			VCU Rams		Yes
+Oklahoma S. vs. Cal St Bakersfield	Oklahoma S.			Oklahoma S.		Yes
+	VCU Rams vs. Oklahoma S.		Oklahoma S.			Oklahoma S.		Yes
+		//Texas A&M vs. Oklahoma S.
+===========================First & Second Round East=====================================
+North Carolina vs. FGCU				NC Tarheels			NC Tarheels		Yes	
+USC vs. Providence					USC					Providence		No
+	NC Tarheels vs. USC				NC Tarheels			xxxxxxxxxxx		No
+		//NC Tarheels vs. Kentucky Wildcats
+Indiana vs. Chattanooga				Indiana				Indiana			Yes
+Kentucky W. vs. Stony Brook			Kentucky W.			Kentucky		Yes
+	Indiana vs. Kentucky W.			Kentucky W.			Indiana			No
+		//NC Tarheels vs. Kentucky Wildcats
+Notre Dame vs. Michigan	W.			Michigan W.			Norte Dame		No										
+West Virginia Mount vs. SF Austin	West Virginia M.	SF Austin		No
+	Michigan W. vs. West Virginia M. West Virginia M.	xxxxxxxxxxx		No
+		//West Virginia M. vs. Xavier
+Wisconsin vs. Pittsburgh			Pittsburgh			Wisconsin		No
+Xavier vs. Weber St. 				Xavier				Xavier			Yes
+	Pittsburgh vs. Xavier			Xavier				xxxxxxxxxxx		No
+		//West Virginia M. vs. Xavier
+===========================First & Second Round MidWest===================================
+Virginia Ca. vs. Hampton			Virginia Ca.		Virginia Ca.	Yes
+Texas Tech vs. Butler				Butler				Butler			Yes
+	Virginia Ca. vs. Butler			Virginia Ca.		Virginia Ca.	Yes	
+		//Virginia Ca. vs. Iowa St.
+Purdue vs. Little Rock				Purdue				Little Rock		No
+Iowa St. vs Iona					Iowa St.			Iowa St. 		Yes
+	Purdue vs. Iowa St.									xxxxxxxxxxx		No
+		//Virginia Ca. vs. Iowa St.
+Seton Hall vs. Gonzaga				Gonzaga				Gonzaga			Yes
+Utah Utes vs. Fresno St. 			Utah Utes			Utah Utes		Yes
+	Gonzaga vs. Utah Utes			Gonzaga				Gonzaga			Yes
+		//Gonzaga vs. Michigan St.
+Dayton vs. Syracuse					Syracuse			Syracuse		Yes
+Michigan St. vs. Middle Tennessee	Michigan St.		Middle Tenn.	No
+	Syracuse vs. Michigan St.		Michigan St.		xxxxxxxxxxx		No	
+		//Gonzaga vs. Michigan St.
+===========================Regional Semifinals South===================================
+Kansas Jayhawks vs. Maryland		Kansas				????????????	>>>
+Arizona Wild vs. Villanova			Villanova			????????????	>>>
+===========================Regional Semifinals West===================================
+Oregon Ducks vs. Duke University	Duke				????????????	>>>
+Texas A&M vs. Oklahoma S.			Oklahoma Sooners	????????????	>>>
+===========================Regional Semifinals East===================================
+NC Tarheels vs. Kentucky Wildcats	NC Tarheels			????????????	>>>
+West Virginia M. vs. Xavier			West Virginia M.	????????????	>>>
+===========================Second Round MidWest===================================
+Virginia Ca. vs. Iowa St.			Virginia Ca.		????????????	>>>	
+Gonzaga vs. Michigan St.			Michigan St.		????????????	>>>
